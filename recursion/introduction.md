@@ -11,7 +11,7 @@ class DSA {
       return;
     }
     System.out.println (num); //print number
-    printNum (num);  //recursion
+    printNum (num-1);  //recursion
   }
   public static void main (String args[]) { //args = arguments
     int num = 5; //initialize num variable with value 5
