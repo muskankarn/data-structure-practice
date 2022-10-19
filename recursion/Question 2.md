@@ -18,7 +18,7 @@ class DSA {
     printNum (num+1);  //recursion
   }
   public static void main (String args[]) { //args = arguments
-    int num = 1; //initialize num variable with value 5
+    int num = 1; //initialize num variable with value 1
     printNum (num); //calling the function printNum
   }
 }
@@ -36,7 +36,7 @@ class DSA {
     printNum (i);  //recursion
   }
   public static void main (String args[]) { //args = arguments
-    int num = 1; //initialize num variable with value 5
+    int num = 1; //initialize num variable with value 1
     printNum (num);  //calling the function printNum
   }
 }
