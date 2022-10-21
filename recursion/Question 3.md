@@ -1,4 +1,4 @@
-# **Print sum of n natural number**
+# **Print sum of n natural numbers**
 #### **n=5**
 
 
